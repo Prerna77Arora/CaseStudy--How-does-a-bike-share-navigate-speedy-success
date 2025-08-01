@@ -20,8 +20,9 @@ The project follows the **Ask → Prepare → Process → Analyze → Share → 
 1. **Ask**  
    - Define the business task and key stakeholders.
 2. **Prepare**  
-   - Download 12 months of Divvy/Cyclistic bike trip data (CSV).  
-   - Organize raw and cleaned data files.
+   - Download 12 months of **Divvy/Cyclistic bike trip data (CSV)** from:  
+     **[Divvy Trip Data – Official Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)**  
+   - Organize raw and cleaned data files into folders.
 3. **Process**  
    - Clean and combine 12 CSVs using Python (handle nulls, duplicates, invalid ride times).  
    - Create new columns: `ride_length` (minutes) and `day_of_week`.
