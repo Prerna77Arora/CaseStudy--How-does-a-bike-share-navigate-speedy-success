@@ -1,4 +1,4 @@
-# CaseStudy--How-does-a-bike-share-navigate-speedy-success
+# Cycling Through Insights: The Bike-Share Analysis
 # 🚴 Cyclistic Bike-Share Case Study
 
 ## 📌 Project Overview
